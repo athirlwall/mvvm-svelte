@@ -4,7 +4,7 @@ _Looking for a shareable component template? Go here --> [sveltejs/component-tem
 
 # MVVM with Svelte
 
-This is a very rudimentary code demontration MVVM with Svelte.
+This is a very rudimentary code demonstration of MVVM with Svelte.
 
 ## Get started
 
